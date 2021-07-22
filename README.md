@@ -4,5 +4,5 @@ This project is built in Tinkercad in C++. It recreates a Fortune Teller whereby
 
 The project can be further developed and include sounds and written message using Piezo and LCD. 
 
-<img src="https://github.com/Dilnazzzz/FortuneTeller/blob/main/FortuneTellerGIF.gif" width=200><br>
+<img src="https://github.com/Dilnazzzz/FortuneTeller/blob/main/FortuneTellerGIF.gif" width=600><br>
 
